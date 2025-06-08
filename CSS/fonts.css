@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Didot-reg";
+  src: url("../fonts/GFSDidot-Regular.ttf") format("truetype");
+  font-weight: 600;
+  font-style: regular;
+}
+
+@font-face {
+  font-family: "Montserrat-semibold";
+  src: url("../fonts/Montserrat-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: Semibold;
+}
+
+@font-face {
+  font-family: "Montserrat-reg";
+  src: url("../fonts/Montserrat-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: regular;
+}
+
+@font-face {
+  font-family: "Montserrat-bold";
+  src: url("../fonts/Montserrat-Bold.ttf") format("truetype");
+  font-weight: 400;
+  font-style: extralight;
+}
